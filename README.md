@@ -1,12 +1,12 @@
 # Paint-web
 This is a fun paint web app.<br/>
 One fine day I discovered about canvas in html5, so tried tinkering up with it.<br/>
+You can try this here : https://ishanjain1502.github.io/Paint-web/
 <br/><br/>
 <h2>Initial development-</h2>
 1. It only had one color and thickness too cannot be changed.<br/>
 2. it only had inputs via mouse and no touch.<br/><br/><br/>
 
-![github web paint](https://user-images.githubusercontent.com/56102033/125462763-f41a8a8d-374a-4ede-94b2-cec37e24bb8d.png)
 
 <br/><br/>
 
@@ -27,5 +27,5 @@ And now it looks like this -
 <h3>Feel free to to send suggestions( and criticism too if any😅)</h3>
 <br/><br/>
 <h3>You can connect with me on -</h3>
-<link src = "https://twitter.com/ishanjain_" >Twiiter</link>
-<link src = "https://www.linkedin.com/in/hey-ishan/" > Linkedin </link>      
+Twitter: https://twitter.com/ishanjain_  <br/>
+LinkedIn: https://www.linkedin.com/in/hey-ishan/      
