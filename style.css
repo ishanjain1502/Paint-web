@@ -7,3 +7,53 @@
 #canvas{
     border: 2px solid black;
 }
+
+.tools{
+    display: flex;
+    justify-content:left;
+    flex-direction: row;
+    
+}
+
+.tools .color-field{
+    height: 1.0rem;
+    width: 1.0rem;
+    padding: 1.5rem;
+    cursor: pointer;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 0.1px solid black;
+    align-self: center;
+    
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+}
+
+#eraser{
+    border-radius: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tools .button{
+    align-self: center;
+    width: 4.25rem;
+    height: 2.5rem;
+    margin-top: 0.65rem;
+    background-color: black;
+    color: blanchedalmond;
+    cursor: pointer;
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+}
+
+.color-picker{
+    align-self: center;
+    width: 100px;
+    height: 40px;
+    border: 0.125rem solid white;
+    margin-left: 0.625rem;
+    margin-right: 0.625rem;
+}
