@@ -14,10 +14,9 @@ As of now I was using eventListener for mouse to draw the objects on canvas, but
 <br><br>
 <h2> Repo Updated  :fire: :fire:- </h2>
 
-1. Now the project not only has the mouse inputs but touch input too. :smiley::smiley:<br/>
-2. You can pick color as per your desire with the help of picker. :satisfied::satisfied: <br/>
-3. I have also added the thickness changer which uses the range type to change thickness of brush 😇:innocent: <br/>
-4. I have added functionality of undo,clear and eraser too 😎 😎<br/>
+1. You can pick color as per your desire with the help of picker. :satisfied::satisfied: <br/>
+2. I have also added the thickness changer which uses the range type to change thickness of brush 😇:innocent: <br/>
+3. I have added functionality of undo,clear and eraser too 😎 😎<br/>
 <br/>
 And now it looks like this - 
 <br/>
